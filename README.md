@@ -2,9 +2,6 @@
 
 **DishDelight** meals app API allows users to register, login, add, view and delete favorite meals to their profile.
 
-## Live Demo
-<a href="https://username.github.io/repo/" target="_blank" rel="noopener noreferrer">Here</a> you can find the live Demo of the website
-
 ## Built With 🔨
 
 - Node
@@ -12,18 +9,15 @@
 - PostgreSQL
 - Jest
 
-## API Choice
+## API Live Link
 
-<a href="https://www.themealdb.com/api.php" target="_blank" rel="noopener noreferrer">Meals DB</a>
+<a href="https://dishdelight-backend.onrender.com" target="_blank" rel="noopener noreferrer">Backend API</a>
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-- Clone this repository to your local machine by running this command in your terminal:
-    ```bash 
-    git clone https://github.com/username/repo
-    ```
+- Clone this repository to your local machine
 - In your terminal, make sure the active directory is `DishDelight-Backend`
 - Run the command `npm i` via your terminal
 - Once all the dependencies have installed, run the following command
